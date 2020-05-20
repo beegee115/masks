@@ -6,7 +6,9 @@ Maybe you’re here because Google sent you, but more likely you’re here becau
 Click either of those links to jump directly to the section in question. 
 
 # First, and very importantly!
-I’m not a doctor. Or a lawyer. I’m making no claims or warranties about the masks that I sew, the filter media I’m providing, or any of the information that I have on this page. The information provided on this page is my personal opinion and has no implied or real medical validity.
+I’m not a doctor. Or a lawyer. I’m making no claims or warranties about the masks that I sew, the filter media I’m providing, or any of the information that I have on this page. The information provided on this page is my personal opinion and has no implied or real medical validity. 
+
+> TLDR: I'm not saying using this mask guarantees you won't get sick or make someone sick.
 
 I urge you to get your health information from trusted, reputable sources and to follow government guidance when it comes to protecting yourself and others.
 
