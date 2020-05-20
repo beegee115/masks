@@ -2,6 +2,7 @@ Welcome to my page with handmade mask information.
 Maybe you’re here because Google sent you, but more likely you’re here because you’re looking for:
 * instructions to [measure so I can sew you a mask](#how-do-i-measure-my-face-for-a-mask)
 * [care instructions](#how-should-i-care-for-and-wash-my-mask) for your mask
+
 Click either of those links to jump directly to the section in question. 
 
 # First, and very importantly!
