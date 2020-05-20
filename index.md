@@ -43,9 +43,7 @@ The [mask sizes](https://www.craftpassion.com/wp-content/uploads/2013/08/Jesse_p
 
 Here I am measuring it for my ear. The pictures here aren't great, so forgive the fact that my finger is a bit over where I'd normally measure to, and the measuring tape isn't quite at my nose. I measured three times and got 5.5" as the average.
 
-![image](/assets/images/mask-measure-ear.jpg)
-
-![image](/assets/images/mask-measure-chin.jpg)
+![image](/assets/images/mask-measure-ear-400px.jpg) ![image](/assets/images/mask-measure-chin-400px.jpg)
 
 Remember that the measurements I’m asking you for determine the mask size and don’t necessarily indicate where it will sit when it’s on your face. Mine goes further around my chin, for example. 
 
