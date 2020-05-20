@@ -27,23 +27,30 @@ I tried a couple different types of masks and a few varieties of fabric and filt
 
 I made the decision to use this mask after trying a similar one that was complicated to sew, and after watching [this video from The Fabric Patch](https://youtu.be/N4r8nwFdUxY) (who made the video after collectively making more than 167,000 masks!). Using a suggestion from the end of that video, I’m using a [modification to the Olson mask pattern](https://www.craftpassion.com/face-mask-sewing-pattern/#face-mask-pattern) that was created by engineer Jesse Killion. Jesse’s version of the mask **comes in 8 sizes for the best possible fit**. I’m further modifying that pattern a tiny bit to add a **filter pocket**, as many others have done for the Olson mask. 
 
-This is what my mask looks like when I wear it.
+This is what my mask looks like when I wear it. Notice it has a snug fit along the jaw (and would have an even better fit at the nose if I had the nose wire in place).
 
-<picture needed>
+![image](/assets/images/mask-profile.jpg)
 
 
 # How do I measure my face for a mask?
 
 The Jesse Killion fabric face mask needs two measurements for a good fit. [The Fabric Patch](https://youtu.be/N4r8nwFdUxY?t=1299)’s video demonstrates this really well. Please take the following measurements, in inches.
 
-From the bridge of your nose (wear glasses would rest) to the cheekbone in front of your ear.
-From the bridge of your nose to just under your chin (I measure to the spot where my chin bone starts to dip into my chin). 
+Ear: From the bridge of your nose (wear glasses would rest) to the cheekbone in front of your ear.
+Chin: From the bridge of your nose to just under your chin (I measure to the spot where my chin bone starts to dip into my chin). 
 
 The [mask sizes](https://www.craftpassion.com/wp-content/uploads/2013/08/Jesse_personal_mask_design.pdf) go from 4.375” to 6” for the ear measurements and from 4.75” to 6.5” for the chin measurement. For comparison, my ear measurement is 5.5” and my chin is 6”. If you’re measuring something below or above the available ranges, check the video or images below to make sure you’re measuring well. 
+
+Here I am measuring it for my ear. The pictures here aren't great, so forgive the fact that my finger is a bit over where I'd normally measure to, and the measuring tape isn't quite at my nose. I measured three times and got 5.5" as the average.
+
+![image](/assets/images/mask-measure-ear.jpg)
+
+![image](/assets/images/mask-measure-chin.jpg)
 
 Remember that the measurements I’m asking you for determine the mask size and don’t necessarily indicate where it will sit when it’s on your face. Mine goes further around my chin, for example. 
 
 **Note:** If you don’t have a measuring tape for sewing, take a piece of non-stretchy string or even a piece of paper to do the measurements, then lay the makeshift measuring tape against a ruler to get your results. 
+
 
 # When do I get my mask?
 
@@ -95,6 +102,8 @@ This modified Olson mask pattern has a curved section that goes over your nose a
 
 To find the nose side, look at the mask when it’s folded in two: the chin part is straight and the nose part is curved. Also, the nose part has the channel for the wire piece.
 
+![image](/assets/images/mask-folded.jpg)
+
 # How do I put in the wire nose piece?
 
 At the top of the mask you’ll see a 2-3” sewed line that creates a channel for a nose wire. You can use any kind of wire that you find comfortable and form fitting. 
@@ -102,6 +111,8 @@ At the top of the mask you’ll see a 2-3” sewed line that creates a channel f
 I’m providing a piece of pipe cleaner that you can use. You have the choice of:
 Folding it in half and twisting it before inserting it in the channel
 Placing it full length in the channel, tucking the ends under the filter flaps.
+
+![image](/assets/images/mask-nose-pieces.jpg)
 
 If the wire channel isn’t long enough for how you like to add your wire, you can sew it by hand to make it longer or to add extra “locking” stitches near the ears. You may need to trim your filter paper a bit if you do this, but it’s worth it for a great, personalized fit. 
 
@@ -137,6 +148,8 @@ Personally, I’ve also used as filters:
 * Paper towel (folded in a few layers)
 * Blue shop towels (folded in two)
 * A sanitized and cut up Winnie the Pooh flannel bedsheet (because I read that [flannel can filter well](https://www.medicalnewstoday.com/articles/what-material-is-best-for-homemade-masks#How-well-the-mask-fits-is-also-crucial) when in combination with other fabrics).
+
+![image](/assets/images/mask-other-filters.jpg)
 
 If you want to make a filter the same size as the one I provided, just trace it onto a paper template that you can use to make more.
 
