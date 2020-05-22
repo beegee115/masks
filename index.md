@@ -136,7 +136,8 @@ Here's how I use my mask:
 
 > I use the “glitter” analogy when it comes to visualizing germs. Anyone who’s ever done any craft (or other “activity”) with glitter knows how easy it is to transfer glitter and how hard it is to remove it!
 
-> So when I’m out and about, I imagine all that the visible parts of my mask are covered in sparkly glitter (and the mouth-side is covered with my own germ-laden glitter). I don’t touch the mask, take it off, or change it position between errands because I don’t want that glitter to end up on my hands, clothes, car, or anything else around me. 
+> So when I’m out and about, I imagine all that the visible parts of my mask are covered in sparkly glitter (and the mouth-side is covered with my own germ-laden glitter). 
+I don’t touch the mask, take it off, or change it position between errands because I don’t want that glitter to end up on my hands, clothes, car, or anything else around me. 
 
 # Which part of the mask goes over my nose?
 
