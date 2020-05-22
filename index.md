@@ -220,7 +220,9 @@ Ideally we’d all have one-time use masks that we could throw out after contami
 
 Scientists are still working on the best ways to sanitize and re-use face masks. I don’t have all the answers and I encourage you to do your research. Here’s an [article by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/decontamination-reuse-respirators.html) that outlines some of the methods they’re testing for respirator sanitization and re-use. 
 
-The fabric shell of the mask I provided you is machine or hand washable, and will support very hot temperatures. It can also go in the dryer. **BUT** make sure you **take out the wire nose piece and the filter before washing**. Filti has specified in their FAQs that their filter material shouldn’t be washed: 
+The fabric shell of the mask I provided you is machine or hand washable, and will support very hot temperatures. The elastics however, may break down if repeatedly washed and dried at high heat. I put mine in the washing machine and in the dryer because it's easy to [replace the elastic](#i-hate-these-elastics-they-hurt-my-ears) if it wears out. 
+
+**BUT** make sure you **take out the wire nose piece and the filter before washing**. Filti has specified in their FAQs that their filter material shouldn’t be washed: 
 
 > “It has been recognized by “Advanced Filtration Manufacturers Association (AFMA)” that advanced materials used in face mask filtration should not be washed due to the material damage and decrease in filtration quality.”
 
