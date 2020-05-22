@@ -237,6 +237,10 @@ Your absolute best bet is to throw away the used one and use a fresh filter. It�
 
 I hear you. My ears hurt from the elastics on my mask too. I can’t imagine how much it must chafe for people who have to wear masks all day.
 
+*** GOOD NEWS *** I received some new stretchier elastic that should be more comfortable to wear. It's about the same size as a hair elastic, but is much softer and stretchier. I will update the section below once I have an idea of how I'll be using the new elastic.
+
+----
+
 The truth of the matter is that elastic material is hard to come by and I’d have to wait weeks or longer to get comfortable elastic material. The Olson mask pattern was created for use with the most readily available materials, and that includes hair elastics for the ear pieces. Most of the masks I’m making use hair elastics as the ear pieces (although some masks use softer, but less durable cotton fabrics).
 
 Whatever ear “elastic” your mask has, I have not sewn the “elastic” to the mask. 
