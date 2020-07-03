@@ -172,11 +172,9 @@ Read. Do your homework. And use at your own risk.
 I’ve pre-cut the filter fabric to fit your mask. The Filti paper has an inside and an outside. 
 Watch this [quick video from the Filti team](https://youtu.be/VTXbK02IHH0) where they explain that the fuzzy side goes “out”. 
 From what they say, using it this way makes the fabric better at its job.
+The fuzzy and smooth sides are pretty easy to tell by feel if your hands are clean and dry.
 
-The fuzzy and smooth sides are pretty easy to tell by feel if your hands are clean and dry but to simplify, I’ve marked it with the word FUZZY near an edge by the ear. 
 Place the fuzzy side towards the front of your mask and the smoother side towards the inside (mouth side) of the mask.
-The marker I used is probably not something you want to inhale a lot of, but the marking is pretty small and will be very dry by the time you get it. 
-If you’re at all worried, once you know which side is which, clip off the marking. 
 
 To put in the filter, start by **washing your hands** and finding a **clean work flat work surface**.
 1. Open the mask with the mouth side up and the [nose side](#which-part-of-the-mask-goes-over-my-nose) pointed it away from you. Look at your filter material and identify the fuzzy side (see my note below). 
