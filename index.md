@@ -33,7 +33,7 @@ They have a number of sewable and no-sew options on their website as well as som
 # What kind of mask does Brigitte make?
 
 I tried a couple different types of masks and a few varieties of fabric and filter material. 
-In the end, because it’s easiest to sew and has the best chance (that I’ve found) of a good fit, I’m using a modified version of the Olson Mask. 
+In the end, because it’s not too hard to sew and has the best chance (that I’ve found) of a good fit, I’m using a modified version of the Olson Mask. 
 
 I made the decision to use this mask after trying a similar one that was complicated to sew, and after watching [this video from The Fabric Patch](https://youtu.be/N4r8nwFdUxY) (who made the video after collectively making more than 167,000 masks!). 
 Using a suggestion from the end of that video, I’m using a [modification to the Olson mask pattern](https://www.craftpassion.com/face-mask-sewing-pattern/#face-mask-pattern) that was created by engineer Jesse Killion. 
@@ -64,20 +64,21 @@ If you’re measurement comes out below or above the available ranges, check the
 Here are a few `glamour` shots of me measuring myself for a mask.
 I know, the pictures here aren't great.
 Forgive the fact that my finger is a bit over where I'd normally measure to on the ear measurement and that the tape is a bit low on my nose for the chin measurement.
+(The ear measurement goes to a finger or two away from the edge of your ear.)
 Look at where the arrows point, that's the area to measure.
 And if you're still not sure, try the [video](https://youtu.be/N4r8nwFdUxY?t=1299) again.
 
 ![image](/assets/images/mask-measure-ear-400px.jpg) ![image](/assets/images/mask-measure-chin-400px.jpg)
 
 Remember that the measurements I’m asking you for will determine the mask size and don’t necessarily indicate where it will sit when it’s on your face. 
-Mine goes further around my chin, for example. 
+Mine goes further around my chin than my measurement point, for example. 
 
 **Note:** If you don’t have a flexible measuring tape, take a piece of non-stretchy string or even a piece of paper to do the measurements, then lay the makeshift measuring tape against a ruler to get your results. 
 
 
 # When do I get my mask?
 
-So far it seems to take me around 2-3 hours to cut, sew, and package about 10 masks. 
+So far it seems to take me around 4-5 hours to cut, sew, and package about 10 masks. 
 There are optimizations that come with quantitiy, so each time I get a new "size" request, I'm making several of that size at once. 
 This means I might already have your size made, and therefore you might be able to pick it up sooner than if I need to cut and sew a new batch of masks.
 
@@ -227,10 +228,12 @@ The fabric shell of the mask I provided you is machine or hand washable, and wil
 
 > “It has been recognized by “Advanced Filtration Manufacturers Association (AFMA)” that advanced materials used in face mask filtration should not be washed due to the material damage and decrease in filtration quality.”
 
-Based on the “Microwave generated steam” method described in the above-linked CDC document, I’m testing this out by mircowaving my own Filti filter for 2 mins with a mug of hot water to create steam. 
+Based on the “Microwave generated steam” method described in the above-linked CDC document and also tested out by [this lab](https://mbio.asm.org/content/11/3/e00997-20#F3), I’m mircowaving my own Filti filter for 2 mins over a glass pan of water to create steam. 
 I don’t know if this meets the exact specifications of the CDC test and **I am not saying that this will sanitize your filter**. 
 
-Your absolute best bet is to throw away the used one and use a fresh filter. It’s up to you to decide how much risk you want to take. (Please don’t microwave the whole mask, especially if you have a nose wire inserted!)
+Your absolute best bet is to throw away the used one and use a fresh filter. 
+It’s up to you to decide how much risk you want to take. 
+(Please don’t microwave the whole mask, especially if you have a nose wire inserted!)
 
 **THAT LAST SENTENCE IS WORTH REPEATING. IN ALL CAPS.** 
 
@@ -238,19 +241,20 @@ Your absolute best bet is to throw away the used one and use a fresh filter. It�
 
 # I hate these elastics, they hurt my ears!
 
-I hear you. My ears hurt from the elastics on my mask too. I can’t imagine how much it must chafe for people who have to wear masks all day.
+I hear you. 
+My ears hurt from the elastics on my mask too. 
+I can’t imagine how much it must chafe for people who have to wear masks all day.
 
-*** GOOD NEWS *** I received some new stretchier elastic that should be more comfortable to wear. It's about the same size as a hair elastic, but is much softer and stretchier. I will update the section below once I have an idea of how I'll be using the new elastic.
-
-----
-
-The truth of the matter is that elastic material is hard to come by and I’d have to wait weeks or longer to get comfortable elastic material. The Olson mask pattern was created for use with the most readily available materials, and that includes hair elastics for the ear pieces. Most of the masks I’m making use hair elastics as the ear pieces (although some masks use softer, but less durable cotton fabrics).
+My recent masks are using a soft, stretchy elastic material. 
+It still chafes after wearing, but it's much better than the hair elastics I used initially. 
 
 Whatever ear “elastic” your mask has, I have not sewn the “elastic” to the mask. 
 It’s sewn in place via a channel, but if you want to, you can replace it with something else. 
 I strongly recommend cut strips from a cotton t-shirt, or soft cotton tights. 
 Just thread the new “elastic” through the channel at the sides of the mask and cut off the existing hair or other elastic. 
-(You may need a large needle to do this, or you can try tying the new fabric tightly to the existing elastic and threading it through that way.) 
+
+To thread the new elastic through the channel, I use a crochet needle.
+You could also use a large needle or a safety pin.
 Tie the new elastic in a knot (I suggest a [reef knot](https://en.wikipedia.org/wiki/Reef_knot) or some other flat knot) and experiment to find the best placement of the knot so it doesn’t irritate your ears or face.
 
 If you prefer long fabric ties instead of ear loops, you can replace the elastic bands with ties. 
